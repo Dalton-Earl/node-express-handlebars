@@ -8,10 +8,10 @@ var connection;
 if(process.env.JAWSDB_URL){
   console.log("you do it?");
   connection = mysql.createConnection({
-    host: 'nba02whlntki5w2p.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-  user: "imzil0wti1pz4lod",
-  password: "siuzoice5fn77nha",
-  database: 'egdxrj99k9nul3i8'
+    host: 'jj820qt5lpu6krut.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+  user: "dpi495wfqxyyym9i",
+  password: "alxcq3t2zqlj15ti",
+  database: 'x06zwce3z0ro75w1'
 }
 
   );
